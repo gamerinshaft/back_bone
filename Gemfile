@@ -38,3 +38,7 @@ gem 'spring',        group: :development
 # Use debugger
 # gem 'debugger', group: [:development, :test]
 
+#User Add
+gem "ruby-haml-js"
+gem 'rails-backbone'
+gem 'haml-rails'
